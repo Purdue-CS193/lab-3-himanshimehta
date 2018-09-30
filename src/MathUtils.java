@@ -3,6 +3,7 @@ public class MathUtils {
      * divideNumbers -- a / b
      * Divide a by b and return the result
      */
+    //comments
     public static double divideNumbers(int dividend, int divisor) {
         /* Do some casual division ... Super easy ... Shouldn't be any problems here */
         double res = (double)dividend / divisor;
